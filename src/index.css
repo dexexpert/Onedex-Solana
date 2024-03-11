@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-gradient {
+  background: radial-gradient(105.58% 93.5% at 50% 27.64%, #21133E 0%, rgba(5, 5, 5, 1) 100%);
+  backdrop-filter: blur(0px);
+}
